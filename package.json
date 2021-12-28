@@ -1,0 +1,40 @@
+{
+  "name": "react-native-card-stack-swiper",
+  "version": "1.2.5",
+  "description": "Tinder like react-native card stack swiper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajwebsoft/react-native-card-stack-swiper.git"
+  },
+  "keywords": [
+    "react-native",
+    "tinder",
+    "cards",
+    "card",
+    "swiper",
+    "swipe",
+    "cardstack",
+    "deck",
+    "card-stack",
+    "react-native-component"
+  ],
+  "author": "Raj Kumar",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.66.0"
+  },
+  "bugs": {
+    "url": "https://github.com/rajwebsoft/react-native-card-stack-swiper/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "15.5.10",
+    "react-lifecycles-compat": "^3.0.4"
+  },
+  "homepage": "https://github.com/rajwebsoft/react-native-card-stack-swiper#readme"
+}
